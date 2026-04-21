@@ -2,6 +2,8 @@
 
 A simple HTML+MongoDB+NodeJS project to display Solar System and it's planets.
 
+SOME RANDOM TEXT
+
 ---
 ## Requirements
 
